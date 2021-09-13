@@ -1,0 +1,8 @@
+numpy
+msgpack-numpy
+lmdb
+hdf5
+hydra-core==0.11.3
+pytorch-lightning==0.8.5
+open3d
+./pointnet2_ops_lib/.
