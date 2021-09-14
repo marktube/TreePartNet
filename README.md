@@ -58,7 +58,7 @@ author={Yanchao Liu and Jianwei Guo and Bedrich Benes and Oliver Deussen and Xia
 journal={ACM Transactions on Graphics (Proceedings of SIGGRAPH ASIA)},
 volume={40},
 number={6},
-pages={},
+pages={232:1--232:16},
 year={2021},
 } 
 ```
