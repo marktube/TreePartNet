@@ -5,7 +5,7 @@ This is the code repository implementing the paper "TreePartNet: Neural Decompos
 
 ![teaser](TreePartNet.png)
 
-## Dependecy and Setup
+## Dependency and Setup
 The project is tested on Ubuntu 18.04 with cuda10.1. 
 
 Requirements:
