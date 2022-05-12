@@ -24,8 +24,8 @@ The gravity direction in tree point cloud is down along y-axis! All tree point c
 
 ![data](tree_data.png)
 
-- Dataset for foliage segmentation: 16K points per tree, hdf5 format, [Download Link](https://mailsucaseducn-my.sharepoint.com/:f:/g/personal/liuyanchao18_mails_ucas_edu_cn/Eg3s4r5_7GZIneYgPeV7SNABLg6oVE7yJvgF38UJYKki6Q?e=zZiUlb)
-- Dataset for neural decomposition: 8K points per tree, hdf5 format, [Download Link](https://1drv.ms/u/s!Am5H_4z5WHyYa7TmZLatW6ZHMaE?e=W4toEN)
+- Dataset for foliage segmentation: 16K points per tree, hdf5 format, [Download Link](https://mailsucaseducn-my.sharepoint.com/:f:/g/personal/liuyanchao18_mails_ucas_edu_cn/Eg3s4r5_7GZIneYgPeV7SNABLg6oVE7yJvgF38UJYKki6Q?e=zZiUlb), [Baiduyun for people in China(code:nva1)](https://pan.baidu.com/s/1XvFRE4OoHKFJVmThhlAiwg)
+- Dataset for neural decomposition: 8K points per tree, hdf5 format, [Download Link](https://1drv.ms/u/s!Am5H_4z5WHyYa7TmZLatW6ZHMaE?e=W4toEN), [Baiduyun for people in China(code:4f5n)](https://pan.baidu.com/s/1Wu7fiziBKTqN6CyO-QFTFw)
 
 ## Training
 After downloading the data and put them in data folder, the foliage segmentation network can be trained as
